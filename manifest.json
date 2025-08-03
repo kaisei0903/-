@@ -1,0 +1,15 @@
+{
+  "name": "札流しアプリ",
+  "short_name": "札流し",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "cards/card1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

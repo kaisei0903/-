@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f5f5f5;
+  margin: 0;
+}
+
+#controls {
+  margin-top: 20px;
+}
+
+#image-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+#card {
+  max-width: 90%;
+  max-height: 100%;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+#timer {
+  margin-top: 10px;
+  font-size: 1.2em;
+}
